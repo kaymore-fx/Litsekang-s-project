@@ -1,12 +1,9 @@
-#BAR{
-    background-color: rgb(35, 66, 33);
-    padding-left: 20px;
-    font-size: xx-large;
-    word-spacing: 300px;
-    height: 80px;
-}
 
-nav a{
-    text-decoration: none;
-    color: beige;
+.hero{
+ background-color: blanchedalmond;
+ text-align: center;
+ height: 270px;
+ padding: 150px;
+ font-style: italic;
+ font-size: xx-large;
 }
