@@ -1,3 +1,12 @@
-selector{
-    property:value
+.container{
+    background-color: rgb(78, 222, 179);
+    text-align: center;
+    height: 270px;
+    padding: 150px;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+#ME{
+    color: rgb(177, 30, 175);
 }
